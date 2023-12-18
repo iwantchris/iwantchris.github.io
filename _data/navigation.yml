@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "GitHub Profile"
+      url: https://github.com/iwantchris
 en-US:
   <<: *DEFAULT_EN
 en-CA:
